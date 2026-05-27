@@ -52,7 +52,8 @@ A modern and responsive **E-Commerce Website** built to provide users with a smo
 * Node.js
 * MongoDb
 * Express.js
-* React.js 
+* React.js
+* MUI Components
 * Local Storage / Backend Integration
 
 ## Purpose of the Project
